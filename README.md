@@ -1,2 +1,2 @@
-# distriprint.github.io
-Temp Website for DistriPrint home page
+# DistriPrint
+3D printer cluster management and user interface.
